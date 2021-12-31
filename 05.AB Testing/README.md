@@ -5,7 +5,7 @@
 ![Data Input](./Data.jpg)
 
 ## A/B Testing - Like
-![Like](./Like.jpg)
+![Like](./Like.JPG)
 
 ## A/B Testing - Age
-![Age](./Age.jpg)
+![Age](./Age.JPG)
