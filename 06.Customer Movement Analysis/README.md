@@ -1,7 +1,6 @@
 # Churn Prediction Model
 
-### Query
-[Query Churn Prediction_6310422102.sql](./Query Churn Prediction_6310422102.sql)  
+### Query 
 ![Query](./1_Query.png)
 ![Query](./2_Query.png)
 
